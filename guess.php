@@ -1,6 +1,6 @@
 <html>
 <body>
-<title>  Vipul af97a874  </title>
+<title>  af97a874 Vipul  Agrawal </title>
 <h1> Welcome to my guessing game</h1>
 
 <?php
